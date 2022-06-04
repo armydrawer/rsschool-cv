@@ -1,1 +1,1 @@
-# rsschool-cv
+https://armydrawer.github.io/rsschool-cv/cv
