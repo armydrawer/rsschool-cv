@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -51,7 +50,9 @@
 
   const bmi = weight/(height*height);
   
-  return bmi &lt;= 18.5 ? 'Underweight': bmi &lt;= 25 ? 'Normal': bmi &lt;= 30 ? 'Overweight': 'Obese';
+  return bmi &lt;= 18.5 ? 'Underweight'
+  : bmi &lt;= 25 ? 'Normal'
+  : bmi &lt;= 30 ? 'Overweight': 'Obese';
 }
 </code></pre></div></div>
 
@@ -77,5 +78,3 @@
   <li><strong>Russian</strong> - native speaker.</li>
   <li><strong>English</strong> - between B1 and B2</li>
 </ul>
-  </body>
-</html>
