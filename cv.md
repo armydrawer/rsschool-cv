@@ -12,8 +12,8 @@
       <h1><a href="https://armydrawer.github.io/rsschool-cv/">rsschool-cv</a></h1>
       
 
-      <h1 id="aleksandr kislitsyn">Aleksandr Kslitsyn</h1>
-<h1 id="my-contact-info">My Contact Info:</h1>
+      <h1 id="aleksandr kislitsyn">Aleksandr Kislitsyn</h1>
+<h1> id="my-contact-info">My Contact Info:</h1>
 
 <ul>
   <li><strong>Phone:</strong> +7 921 635 66 77</li>
